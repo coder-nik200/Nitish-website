@@ -22,4 +22,4 @@ To run this project locally:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/coder-nik200/Nitish-website.git
+   https://coder-nik200.github.io/Nitish-website/
